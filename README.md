@@ -1,7 +1,7 @@
 ![logo python sevilla](img/python_sevilla.jpg)
 logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 # Python Sevilla Meetups
-
+List of Python Sevilla talks:
 
 ### Introduction to complex systems and cellular automata (with Python).
 By [@DanielLopezCoto](https://github.com/DanielLopezCoto)
