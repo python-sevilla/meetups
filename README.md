@@ -6,6 +6,7 @@ List of Python Sevilla talks:
 ### Introduction to complex systems and cellular automata (with Python).
 By [@DanielLopezCoto](https://github.com/DanielLopezCoto)
 - https://github.com/python-sevilla/emergent-computation
+- Video session: https://www.youtube.com/watch?v=QVVp9z5dyhU
 
 ### Trolling Detection with Scikit-learn and NLTK.
 By [@rafaharo](https://github.com/rafaharo)
