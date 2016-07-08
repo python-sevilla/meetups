@@ -23,3 +23,4 @@ By [@cayetanobv](https://github.com/cayetanobv) [@alasarr](https://github.com/al
 ### Data Science - A Python Introduction.
 By [@josemazo](https://github.com/josemazo)
 - https://github.com/python-sevilla/nyc-taxi-tip-predictor
+- Slides: https://goo.gl/erFIF4
