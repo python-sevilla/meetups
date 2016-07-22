@@ -19,6 +19,7 @@ By [Alfredo Sotelo ](https://es.linkedin.com/in/alfredosotelo)
 ### Introduction to geographic data processing with Python.
 By [@cayetanobv](https://github.com/cayetanobv) [@alasarr](https://github.com/alasarr)
 - https://github.com/python-sevilla/MeetUp_Python_Jan2016
+- Slides: https://github.com/python-sevilla/MeetUp_Python_Jan2016/raw/master/doc/Meetup_GeoPython_jan2016.pdf
 
 ### Data Science - A Python Introduction.
 By [@josemazo](https://github.com/josemazo)
