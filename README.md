@@ -3,8 +3,8 @@ logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 # Python Sevilla Meetups
 List of Python Sevilla talks:
 
-### Neural coders - An essential part of Deep Learning.
-By [Pedro Almagro]()
+### Neural encoders - An essential part of Deep Learning.
+By [@palmagro](https://github.com/palmagro)
 - SOON
 
 ### Introduction to complex systems and cellular automata (with Python).
