@@ -5,6 +5,8 @@ List of Python Sevilla talks:
 
 ### Neural encoders - An essential part of Deep Learning.
 By [@palmagro](https://github.com/palmagro)
+- https://github.com/python-sevilla/neural-encoders
+- Slides: https://cdn.rawgit.com/python-sevilla/neural-encoders/master/neural-encoders.pdf
 - Video session: https://www.youtube.com/watch?v=IQTQodjr3Go
 
 ### Introduction to complex systems and cellular automata (with Python).
