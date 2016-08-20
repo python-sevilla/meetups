@@ -1,4 +1,4 @@
-![logo python sevilla](img/python_sevilla.jpg)
+![logo python sevilla](img/python_sevilla.png)
 logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 # Python Sevilla Meetups
 List of Python Sevilla talks:
