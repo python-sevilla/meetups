@@ -1,7 +1,13 @@
 ![logo python sevilla](img/python_sevilla.png)
 logo by: [@rageraouiea](https://twitter.com/rageraouiea)
+
 # Python Sevilla Meetups
 List of Python Sevilla talks:
+
+### Python Gotchas.
+By [@_amatellanes](https://twitter.com/_amatellanes)
+- Slides: SOON
+- Video session: SOON
 
 ### Neural encoders - An essential part of Deep Learning.
 By [@palmagro](https://github.com/palmagro)
