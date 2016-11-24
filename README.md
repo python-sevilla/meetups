@@ -7,7 +7,7 @@ List of Python Sevilla talks:
 ### Python Gotchas.
 By [@_amatellanes](https://twitter.com/_amatellanes)
 - Slides: https://github.com/python-sevilla/meetup-python-gotchas
-- Video session: SOON
+- Video session: https://www.youtube.com/watch?v=Hn8qwq-9_HY
 
 ### Neural encoders - An essential part of Deep Learning.
 By [@palmagro](https://github.com/palmagro)
