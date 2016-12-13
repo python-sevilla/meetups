@@ -4,6 +4,9 @@ logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 # Python Sevilla Meetups
 List of Python Sevilla talks:
 
+### Python & MOOC (Massive Online Open Courses).
+SOON
+
 ### Python Gotchas.
 By [@_amatellanes](https://twitter.com/_amatellanes)
 - Slides: https://github.com/python-sevilla/meetup-python-gotchas
