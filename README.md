@@ -5,7 +5,17 @@ logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 List of Python Sevilla talks:
 
 ### Python & MOOC (Massive Online Open Courses).
-SOON
+Talks:
+- __Open edX: first steps__. By [@ilozano2](https://twitter.com/ilozano2)
+
+- __OpenMOOC: Python MOOCs made in Sevilla__. By [@neokore](https://github.com/neokore)
+
+Slides:
+- [Link to slides](https://github.com/python-sevilla/meetup-python-moocs)
+
+Video Sessions:
+- [Part I](https://www.youtube.com/watch?v=pG03M0dhZ_4)
+- [Part II](https://www.youtube.com/watch?v=f-uFNKz98hw)
 
 ### Python Gotchas.
 By [@_amatellanes](https://twitter.com/_amatellanes)
