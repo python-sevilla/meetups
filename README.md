@@ -4,6 +4,12 @@ logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 # Python Sevilla Meetups
 List of Python Sevilla talks:
 
+### Recommender Systems: Machine Learning for the Web.
+By [@josemazo](https://github.com/josemazo)
+- https://github.com/josemazo/recommender-systems
+- Slides: https://github.com/josemazo/recommender-systems/blob/master/slides.pdf
+- Video session: SOON
+
 ### Python & MOOC (Massive Online Open Courses).
 Talks:
 - __Open edX: first steps__. By [@ilozano2](https://twitter.com/ilozano2)
