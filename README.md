@@ -6,9 +6,9 @@ List of Python Sevilla talks:
 
 ### Recommender Systems: Machine Learning for the Web.
 By [@josemazo](https://github.com/josemazo)
-- https://github.com/josemazo/recommender-systems
-- Slides: https://github.com/josemazo/recommender-systems/blob/master/slides.pdf
-- Video session: SOON
+- https://github.com/python-sevilla/recommender-systems
+- Slides: https://rawgit.com/python-sevilla/recommender-systems/master/slides.pdf
+- Video session: https://www.youtube.com/watch?v=P4pfod9ibHU
 
 ### Python & MOOC (Massive Online Open Courses).
 Talks:
