@@ -4,6 +4,12 @@ logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 # Python Sevilla Meetups
 List of Python Sevilla talks:
 
+### Starters with Django.
+By [@iPablo](https://github.com/iPablo)
+- https://github.com/python-sevilla/starter-python-sevilla
+- Slides: Soon...
+- Video session: https://www.youtube.com/watch?v=KpxqRtkBQUk
+
 ### Recommender Systems: Machine Learning for the Web.
 By [@josemazo](https://github.com/josemazo)
 - https://github.com/python-sevilla/recommender-systems
