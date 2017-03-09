@@ -7,7 +7,7 @@ List of Python Sevilla talks:
 ### Starters with Django.
 By [@iPablo](https://github.com/iPablo)
 - https://github.com/python-sevilla/starter-python-sevilla
-- Slides: Soon...
+- Slides: https://rawgit.com/python-sevilla/starter-python-sevilla/master/BeDjango%20Starter.pdf
 - Video session: https://www.youtube.com/watch?v=KpxqRtkBQUk
 
 ### Recommender Systems: Machine Learning for the Web.
