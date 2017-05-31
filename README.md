@@ -2,7 +2,15 @@
 logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 
 # Python Sevilla Meetups
-List of Python Sevilla talks:
+
+## Python Sevilla talks dataset
+
+[Here](https://github.com/python-sevilla/meetups/blob/master/python_sevilla_talks_data.csv) you have a small dataset collected from the [recommender systems talk](https://github.com/python-sevilla/meetups#recommender-systems-machine-learning-for-the-web) onwards. You can find timestamps, assistance and questions data.
+
+## List of Python Sevilla talks
+
+### Genetic algorithms.
+SOON.
 
 ### Starters with Django.
 By [@iPablo](https://github.com/iPablo)
@@ -17,17 +25,10 @@ By [@josemazo](https://github.com/josemazo)
 - Video session: https://www.youtube.com/watch?v=P4pfod9ibHU
 
 ### Python & MOOC (Massive Online Open Courses).
-Talks:
-- __Open edX: first steps__. By [@ilozano2](https://twitter.com/ilozano2)
-
-- __OpenMOOC: Python MOOCs made in Sevilla__. By [@neokore](https://github.com/neokore)
-
-Slides:
-- [Link to slides](https://github.com/python-sevilla/meetup-python-moocs)
-
-Video Sessions:
-- [Part I](https://www.youtube.com/watch?v=pG03M0dhZ_4)
-- [Part II](https://www.youtube.com/watch?v=f-uFNKz98hw)
+__Open edX: first steps__ by [@ilozano2](https://twitter.com/ilozano2) & __OpenMOOC: Python MOOCs made in Sevilla__ by [@neokore](https://github.com/neokore)
+- Slides: https://github.com/python-sevilla/meetup-python-moocs
+- Video session - Part I: https://www.youtube.com/watch?v=pG03M0dhZ_4
+- Video session - PART II: https://www.youtube.com/watch?v=f-uFNKz98hw
 
 ### Python Gotchas.
 By [@_amatellanes](https://twitter.com/_amatellanes)
@@ -50,7 +51,7 @@ By [@rafaharo](https://github.com/rafaharo)
 - https://github.com/python-sevilla/trolling_detection
 
 ### Playing with Python.
-By [Alfredo Sotelo ](https://es.linkedin.com/in/alfredosotelo)
+By [Alfredo Sotelo](https://es.linkedin.com/in/alfredosotelo)
 - http://www.pythonchallenge.com/
 
 ### Introduction to geographic data processing with Python.

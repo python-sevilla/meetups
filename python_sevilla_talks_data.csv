@@ -1,0 +1,4 @@
+name,date,delayed,expected_start_timestamp,expected_finish_timestamp,start_timestamp,finish_timestamp,expected_assistants,assistants,questions
+recommender systems,2017-02-01,1,2017-02-01T18:00:00Z,2017-02-01T19:00:00Z,2017-02-01T18:10:00Z,2017-02-01T19:10:00Z,44,36,10
+django starters,2017-03-08,0,2017-03-08T18:00:00Z,2017-03-08T19:30:00Z,2017-03-08T18:35:00Z,2017-03-08T19:35:00Z,46,26,9
+genetic algorithms,2017-06-01,0,2017-06-01T17:00:00Z,2017-06-01T18:30:00Z,,,45,,
