@@ -10,7 +10,12 @@ logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 ## List of Python Sevilla talks
 
 ### Genetic algorithms.
-SOON.
+By [@Dany503](hhttps://github.com/Dany503)
+- https://github.com/python-sevilla/PythonGA
+- Slides: https://rawgit.com/python-sevilla/PythonGA/master/Introduccion_GA_Python.pptx
+- Video session: SOON.
+
+### [Community summary: 2017-06-01](https://rawgit.com/python-sevilla/PythonGA/master/python_sevilla_20170601.pdf)
 
 ### Starters with Django.
 By [@iPablo](https://github.com/iPablo)
