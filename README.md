@@ -13,7 +13,7 @@ logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 By [@Dany503](hhttps://github.com/Dany503)
 - https://github.com/python-sevilla/PythonGA
 - Slides: https://rawgit.com/python-sevilla/PythonGA/master/Introduccion_GA_Python.pptx
-- Video session: SOON.
+- Video session: https://www.youtube.com/watch?v=_6P6Tbmok40
 
 ### [Community summary: 2017-06-01](https://rawgit.com/python-sevilla/PythonGA/master/python_sevilla_20170601.pdf)
 
