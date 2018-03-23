@@ -2,3 +2,4 @@ name,date,delayed,expected_start_timestamp,expected_finish_timestamp,start_times
 recommender systems,2017-02-01,1,2017-02-01T18:00:00Z,2017-02-01T19:00:00Z,2017-02-01T18:10:00Z,2017-02-01T19:10:00Z,Geographica,C/ Ebro 1 Sevilla 41012 Spain,POINT (-5.98305 37.35538),44,36,10
 django starters,2017-03-08,0,2017-03-08T18:00:00Z,2017-03-08T19:30:00Z,2017-03-08T18:35:00Z,2017-03-08T19:35:00Z,BeDjango,Avda. Luis de Morales 32 Sevilla 41018 Spain,POINT (-5.97355 37.38323),46,26,9
 genetic algorithms,2017-06-01,0,2017-06-01T17:00:00Z,2017-06-01T18:30:00Z,2017-06-01T17:10:00Z,2017-06-01T18:10:00Z,Geographica,C/ Ebro 1 Sevilla 41012 Spain,POINT (-5.98305 37.35538),45,19,3
+route optimization,2018-03-22,0,2018-03-22T19:00:00Z,2018-03-22T20:00:00Z,2018-03-22T19:05:00Z,2018-03-22T20:10:00Z,Geographica,C/ Ebro 1 Sevilla 41012 Spain,POINT (-5.98305 37.35538),66,40,2

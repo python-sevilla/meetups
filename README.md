@@ -9,13 +9,20 @@ logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 
 ## List of Python Sevilla talks
 
+### Route optimization.
+By [@alasarr](hhttps://github.com/alasarr), [@cayetanobv](hhttps://github.com/cayetanobv) and [@josemazo](hhttps://github.com/josemazo)
+- https://github.com/python-sevilla/route_optimization
+- Slides: https://rawgit.com/python-sevilla/route_optimization/master/route_optimization.pdf
+
+### [Community summary: 2018-03-22](https://rawgit.com/python-sevilla/meetups/master/community_summaries/python_sevilla_20180322.pdf)
+
 ### Genetic algorithms.
 By [@Dany503](hhttps://github.com/Dany503)
 - https://github.com/python-sevilla/PythonGA
 - Slides: https://rawgit.com/python-sevilla/PythonGA/master/Introduccion_GA_Python.pptx
 - Video session: https://www.youtube.com/watch?v=_6P6Tbmok40
 
-### [Community summary: 2017-06-01](https://rawgit.com/python-sevilla/PythonGA/master/python_sevilla_20170601.pdf)
+### [Community summary: 2017-06-01](https://rawgit.com/python-sevilla/meetups/master/community_summaries/python_sevilla_20170601.pdf)
 
 ### Starters with Django.
 By [@iPablo](https://github.com/iPablo)
