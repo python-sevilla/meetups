@@ -3,6 +3,13 @@ logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 
 # Python Sevilla Meetups
 
+This is the Python-Sevilla MeetUps content repository.
+
+If you want to contact or join our group:
+
+  - Twitter: https://twitter.com/python_sevilla
+  - MeetUp: https://www.meetup.com/es-ES/Python-Sevilla/
+
 ## Python Sevilla talks dataset
 
 [Here](https://github.com/python-sevilla/meetups/blob/master/python_sevilla_talks_data.csv) you have a small dataset collected from the [recommender systems talk](https://github.com/python-sevilla/meetups#recommender-systems-machine-learning-for-the-web) onwards. You can find timestamps, assistance and questions data.
