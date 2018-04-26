@@ -16,6 +16,13 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks
 
+### AWS for "tiesos": Introduction to serverless.
+By [@voodmania](https://github.com/voodmania)
+- https://github.com/python-sevilla/demo-lambda
+- https://github.com/python-sevilla/presentacion-aws-para-tiesos
+- Slides: https://voodmania.github.io/presentacion-aws-para-tiesos/#/
+- Video session: https://youtu.be/UMNkccxDTpc
+
 ### Route optimization.
 By [@alasarr](https://github.com/alasarr), [@cayetanobv](https://github.com/cayetanobv) and [@josemazo](https://github.com/josemazo)
 - https://github.com/python-sevilla/route_optimization
