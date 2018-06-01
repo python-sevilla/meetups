@@ -19,8 +19,8 @@ If you want to contact or join our group:
 
 ### Curing cancer with Python: a Deep Learning approach
 By [@alejandrohall](https://github.com/alejandrohall)
-- xxxxxxxxxxxxxx
-Slides: xxxxxxxxxx
+- (SOON)
+Slides: (SOON)
 
 ### AWS for "tiesos": Introduction to serverless.
 By [@voodmania](https://github.com/voodmania)
