@@ -17,6 +17,12 @@ If you want to contact or join our group:
 ## List of Python Sevilla talks
 
 
+### Introduction to chatbots
+By [@voodmania](https://github.com/voodmania)
+- https://github.com/voodmania/presentacion-introduccion-a-los-chatbots
+- Slides: https://voodmania.github.io/presentacion-introduccion-a-los-chatbots/
+- Video: SOON
+
 ### Curing cancer with Python: a Deep Learning approach
 By [@alejandrohall](https://github.com/alejandrohall)
 - https://github.com/alejandrohall/DeepLearningTalk
