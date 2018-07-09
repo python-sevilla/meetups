@@ -21,7 +21,7 @@ If you want to contact or join our group:
 By [@voodmania](https://github.com/voodmania)
 - https://github.com/voodmania/presentacion-introduccion-a-los-chatbots
 - Slides: https://voodmania.github.io/presentacion-introduccion-a-los-chatbots/
-- Video: SOON
+- Video session: https://www.youtube.com/watch?v=n6Mv-JJ2rCo
 
 ### Curing cancer with Python: a Deep Learning approach
 By [@alejandrohall](https://github.com/alejandrohall)
