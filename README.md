@@ -17,6 +17,11 @@ If you want to contact or join our group:
 ## List of Python Sevilla talks
 
 
+### Is your company ready to receive attacks?
+By [@B0rjitaaa](https://github.com/B0rjitaaa)
+- https://github.com/B0rjitaaa/VemolWare
+- Slides: https://github.com/python-sevilla/meetup_oct2018_docs/blob/master/docs/BorjaMAnuel%20-%20Presentacio%CC%81n_Vemolware.pptx
+
 ### Introduction to chatbots
 By [@voodmania](https://github.com/voodmania)
 - https://github.com/voodmania/presentacion-introduccion-a-los-chatbots
