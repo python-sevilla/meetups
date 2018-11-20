@@ -16,6 +16,11 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks
 
+### OSINT, OSANT ...
+By [@Quantika14](https://github.com/Quantika14)
+- https://github.com/Quantika14
+- https://quantika14.com/
+- Slides: https://github.com/python-sevilla/meetup_nov2018_docs/raw/master/docs/osint_osant_python_meetup.pdf
 
 ### Is your company ready to receive attacks?
 By [@B0rjitaaa](https://github.com/B0rjitaaa)
