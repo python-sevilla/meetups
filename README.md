@@ -16,6 +16,11 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks
 
+### Music pattern recognition with Foucluster
+By [@cperales](https://github.com/cperales)
+- https://github.com/cperales/foucluster
+- Slides: https://docs.google.com/presentation/d/1_VlEgwT5Zmfh2y1sqzbTluOURHHLJWS7h43WaBpHKmE/edit#slide=id.g33c89f9880_0_286
+
 ### OSINT, OSANT ...
 By [@Quantika14](https://github.com/Quantika14)
 - https://github.com/Quantika14
