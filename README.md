@@ -16,15 +16,19 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks:
 
-### And what do we watch today? - Analyzing movie reviews with Python
-By [@rafaharo](https://github.com/rafaharo).
-- https://github.com/python-sevilla/movie_reviews
-- Slides: https://github.com/python-sevilla/meetup_dec2018_docs/blob/master/docs/slides.pdf
+### Introduction to reinforcement learning
+By Manuel Correa
+- [Slides and code (jupyter notebook)](stuff/intro_reinf_learning.zip)
 
 ### Pattern recognition in music with Foucluster
 By [@cperales](https://github.com/cperales)
 - https://github.com/cperales/foucluster
 - Slides: https://docs.google.com/presentation/d/1_VlEgwT5Zmfh2y1sqzbTluOURHHLJWS7h43WaBpHKmE/edit#slide=id.g33c89f9880_0_286
+
+### And what do we watch today? - Analyzing movie reviews with Python
+By [@rafaharo](https://github.com/rafaharo).
+- https://github.com/python-sevilla/movie_reviews
+- Slides: https://github.com/python-sevilla/meetup_dec2018_docs/blob/master/docs/slides.pdf
 
 ### OSINT, OSANT ...
 By [@Quantika14](https://github.com/Quantika14)
