@@ -16,6 +16,11 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks:
 
+### Django and Django CMS
+By [@mjbarrera8](https://github.com/mjbarrera8)
+- https://github.com/mjbarrera8/pythonsevilla2019-presentacion
+- Slides: https://mjbarrera8.github.io/pythonsevilla2019-presentacion
+
 ### Introduction to reinforcement learning
 By Manuel Correa
 - [Slides and code (jupyter notebook)](stuff/intro_reinf_learning.zip)
