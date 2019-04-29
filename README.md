@@ -16,6 +16,11 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks:
 
+### And what house is it? Machine learning applied to aerial imagery and LIDAR
+By [@arredond](https://github.com/arredond)
+- https://github.com/arredond/charla_python_sevilla_201904
+- Slides: https://github.com/arredond/charla_python_sevilla_201904/blob/master/y_que_casita_es.pdf
+
 ### Django and Django CMS
 By [@mjbarrera8](https://github.com/mjbarrera8)
 - https://github.com/mjbarrera8/pythonsevilla2019-presentacion
