@@ -16,6 +16,13 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks:
 
+### Python-Sevilla June - Special Event (Python Tour by Kiwi.com)
+__Don't talk, scheme!__ By Tin Marković
+  - Slides: https://drive.google.com/open?id=1VHo4haMBE37sUJcjoUrvx-kMuBPKT2lb
+
+__From legacy code to modern code.__ By Stanislav Geidl
+  - Slides: https://drive.google.com/open?id=10goiMnmPqtFbQqz7nTLcZ6EALy2cj768vYX2qRtvuF4
+
 ### And what house is it? Machine learning applied to aerial imagery and LIDAR
 By [@arredond](https://github.com/arredond)
 - https://github.com/arredond/charla_python_sevilla_201904
