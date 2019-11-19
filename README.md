@@ -14,12 +14,13 @@ If you want to contact or join our group:
 
 [Here](https://github.com/python-sevilla/meetups/blob/master/python_sevilla_talks_data.csv) you have a small dataset collected from the [recommender systems talk](https://github.com/python-sevilla/meetups#recommender-systems-machine-learning-for-the-web) onwards. You can find timestamps, assistance and questions data.
 
+
+## List of Python Sevilla talks:
+
 ### Chatbots development with Rasa NLU
 By [@rafaharo](https://github.com/rafaharo)
 - https://github.com/rafaharo/pycones19
 - Slides: https://docs.google.com/presentation/d/1TWH-uZIPLhQtoxA7d_YnLIKOU3RJsFznjTdx9MBzX60/edit#slide=id.p
-
-## List of Python Sevilla talks:
 
 ### Python-Sevilla June - Special Event (Python Tour by Kiwi.com)
 __Don't talk, scheme!__ By Tin Marković
