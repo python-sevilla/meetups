@@ -10,6 +10,9 @@ If you want to contact or join our group:
   - Twitter: https://twitter.com/python_sevilla
   - MeetUp: https://www.meetup.com/es-ES/Python-Sevilla/
 
+## Code of Conduct
+  - Our Code of Conduct: (https://github.com/python-sevilla/meetups/blob/code_of_conduct/code_of_conduct.md)
+
 ## Python Sevilla talks dataset
 
 [Here](https://github.com/python-sevilla/meetups/blob/master/python_sevilla_talks_data.csv) you have a small dataset collected from the [recommender systems talk](https://github.com/python-sevilla/meetups#recommender-systems-machine-learning-for-the-web) onwards. You can find timestamps, assistance and questions data.
