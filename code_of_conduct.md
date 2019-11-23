@@ -1,10 +1,10 @@
 # Codigo de conducta
 
-Python Sevilla es grupo de personas apasionadas, profesionales o entusiastas del lenguaje de programación Python en la ciudad de Sevilla. Las reuniones que se organizan a través de este grupo están orientadas a la divulgación y colaboración dentro de la comunidad de desarrolladores, ya sean de Sevilla o de cualquier parte del globo.
+Python Sevilla es un grupo de personas apasionadas, profesionales o entusiastas del lenguaje de programación Python en la ciudad de Sevilla. Las reuniones que se organizan a través de este grupo están orientadas a la divulgación y colaboración dentro de la comunidad de desarrolladores, ya sean de Sevilla o de cualquier parte del globo.
 
 Valoramos la participación de cada miembro de la comunidad de Python Sevilla y queremos que todos los asistentes tengan una experiencia entretenida y satisfactoria. Para ello, se espera que todos los asistentes muestren respeto y cortesía hacia el resto durante las reuniones y todos los eventos relacionados con ellas.
 
-En concreto, todas las personas de la organización, patrocinadores y personal voluntario que tomen parte en actividades relacionadas con Python Sevilla deberán acatar el presente código de conducta. La organización cuidarán del cumplimiento de este código durante el evento.
+En concreto, todas las personas de la organización, patrocinadores y personal voluntario que tomen parte en actividades relacionadas con Python Sevilla deberán acatar el presente código de conducta. La organización cuidará del cumplimiento de este código durante el evento.
 
 Se entiende por acoso todo comentario ofensivo alusivo al sexo, preferencias sexuales, discapacidades, aspecto físico, etnias y religiones; toda pornografía en espacios públicos; toda intimidación deliberada, acecho o persecución; todo acoso mediante fotografías o grabaciones; toda interrupción constante de charlas u otras actividades; todo contacto físico inapropiado y toda propuesta sexual no deseada.
 
@@ -18,9 +18,9 @@ Si algún participante infringiera este código de conducta, la organización po
 
 Si estás siendo objeto de acoso, notas que alguien está siendo acosado, o tienes cualquier otra preocupación, por favor ponte en contacto con un miembro del personal de la organización. 
 
-El personal de la organización de Python Sevilla ayudará gustosamente a los participantes a que se pongan en contacto con el personal de seguridad del lugar o la policía local, y proporcionará escolta o socorrerá de cualquier otra forma a las víctimas de acoso para que puedan sentirse seguras durante el desarrollo de la conferencia. Tu bienestar es una de nuestras prioridades.
+El personal de la organización de Python Sevilla ayudará gustosamente a los participantes a que se pongan en contacto con el personal de seguridad del lugar o la policía local, y proporcionará escolta o socorrerá de cualquier otra forma a las víctimas de acoso para que puedan sentirse seguras durante el desarrollo de las actividades. Tu bienestar es una de nuestras prioridades.
 
-Gracias por hacer de este un evento abierto a la comunidad y amistoso.
+Gracias por hacer de ellos, eventos abierto a la comunidad y amistoso.
 
 # Licencia
 

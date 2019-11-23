@@ -11,7 +11,7 @@ If you want to contact or join our group:
   - MeetUp: https://www.meetup.com/es-ES/Python-Sevilla/
 
 ## Code of Conduct
-  - Our Code of Conduct: (https://github.com/python-sevilla/meetups/blob/code_of_conduct/code_of_conduct.md)
+  - You can find our [Code of Conduct](https://github.com/python-sevilla/meetups/blob/code_of_conduct/code_of_conduct.md)
 
 ## Python Sevilla talks dataset
 
