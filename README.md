@@ -17,6 +17,11 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks:
 
+### Introduction to MLFLOW Accelerating the Machine Learning Lifecycle
+By [@FernanOrtega](https://github.com/FernanOrtega)
+- https://github.com/FernanOrtega/pythonsevilla2019
+- Slides: https://www.slideshare.net/fortega86/pythonsevilla2019-mlflow-introduction
+
 ### Chatbots development with Rasa NLU
 By [@rafaharo](https://github.com/rafaharo)
 - https://github.com/rafaharo/pycones19
