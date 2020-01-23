@@ -5,6 +5,8 @@ logo by: [@rageraouiea](https://twitter.com/rageraouiea)
 
 This is the Python-Sevilla MeetUps content repository.
 
+Python-Sevilla is part of [Python Software Foundation Meetup Pro Network](https://www.meetup.com/es-ES/pro/python-software-foundation-meetups).
+
 If you want to contact or join our group:
 
   - Twitter: https://twitter.com/python_sevilla
