@@ -22,6 +22,11 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks:
 
+### Highly parallel microservices for all
+By [@voodmania](https://github.com/FernanOrtega)
+- https://github.com/voodmania/pycones2019-demo
+- Slides: https://github.com/voodmania/pyday-granada2019
+
 ### Introduction to MLFLOW Accelerating the Machine Learning Lifecycle
 By [@FernanOrtega](https://github.com/FernanOrtega)
 - https://github.com/FernanOrtega/pythonsevilla2019
