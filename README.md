@@ -22,8 +22,12 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks:
 
+### SVQTech Official presentation ("Why Python, why now?")
+By [@voodmania](https://github.com/voodmania)
+- Slides: https://github.com/voodmania/
+
 ### Highly parallel microservices for all
-By [@voodmania](https://github.com/FernanOrtega)
+By [@voodmania](https://github.com/voodmania)
 - https://github.com/voodmania/pycones2019-demo
 - Slides: https://github.com/voodmania/pyday-granada2019
 
