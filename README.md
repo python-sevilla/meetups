@@ -24,7 +24,8 @@ If you want to contact or join our group:
 
 ### SVQTech Official presentation ("Why Python, why now?")
 By [@voodmania](https://github.com/voodmania)
-- Slides: https://github.com/voodmania/
+- [Slides](stuff/svqtech.rar)
+- Video session: https://www.youtube.com/watch?v=tTJS1ObGAz0
 
 ### Highly parallel microservices for all
 By [@voodmania](https://github.com/voodmania)
