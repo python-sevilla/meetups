@@ -22,6 +22,11 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks:
 
+### DataFlow, todo es posible si tienes imaginación
+By [@voodmania](https://github.com/voodmania)
+- https://github.com/voodmania/dataflow-example
+- Slides: https://voodmania.github.io/dataflow-2022/#/
+
 ### SVQTech Official presentation ("Why Python, why now?")
 By [@voodmania](https://github.com/voodmania)
 - [Slides](stuff/svqtech.rar)
