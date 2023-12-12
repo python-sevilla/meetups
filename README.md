@@ -22,6 +22,11 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks:
 
+### Auto-gen workshop
+By [@mhaugestad](https://github.com/mhaugestad)
+- https://github.com/mhaugestad/autogen-workshop/
+- Slides: https://docs.google.com/presentation/d/1aeNVwtDfSbKQ2M9ogmMO7b2_Mgb1YAQk2GsFqr4omX0/edit?usp=sharing
+
 ### DataFlow, todo es posible si tienes imaginación
 By [@voodmania](https://github.com/voodmania)
 - https://github.com/voodmania/dataflow-example
