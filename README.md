@@ -22,6 +22,13 @@ If you want to contact or join our group:
 
 ## List of Python Sevilla talks:
 
+### ONLINE: Aplicaciones de vision por computador con un par de funciones de Python
+
+By [@miguelaeh](https://github.com/miguelaeh)
+- https://github.com/pipeless-ai/pipeless
+- Example: https://www.pipeless.ai/docs/v1/examples/object-tracking
+- Video: https://webinar.zoho.eu/meeting/public/videoprv?recordingId=4c473402d4cdfd5655efd52d24a551d6adced2fdb295ca22b94e37cd99d21780 (Start at 15 minutes)
+
 ### Auto-gen workshop
 By [@mhaugestad](https://github.com/mhaugestad)
 - https://github.com/mhaugestad/autogen-workshop/
