@@ -1,5 +1,5 @@
-![logo python sevilla](img/python_sevilla.png)
-logo by: [@rageraouiea](https://twitter.com/rageraouiea)
+[<img src="img/logo/python_sevilla_logo.png" width="250" alt="logo python sevilla"/>](img/logo/python_sevilla_logo.png)
+
 
 # Python Sevilla Meetups
 
